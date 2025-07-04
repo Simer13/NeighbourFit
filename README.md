@@ -80,8 +80,12 @@
 
 ## 📽️ Demo Video
 
-> 🎥 [Click here to watch the demo](#)  
-*(Replace this with your actual video link or embedded iframe)*
+> 🎥 [Watch the demo]
+
+
+https://github.com/user-attachments/assets/a01283dc-6640-492b-959e-f3a8b4225dff
+
+
 
 ---
 
